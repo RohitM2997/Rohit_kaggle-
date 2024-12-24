@@ -1,15 +1,10 @@
 #disaster_tweets
 
-
-
-
-
-
-
-
-
-
-
+# Data loading and inspecting (Rohit Mane)
+Imported required models.
+Loaded train, test data,
+Looked for null and duplicated values and taken required action according to it.
+observed data description(mean, mode, median, max, etc) and data info.
 
 
 # text Cleaning----(by kranti kalyane)
