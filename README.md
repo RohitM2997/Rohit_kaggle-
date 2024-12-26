@@ -29,3 +29,6 @@ Analyzed the frequency of unique values in the location and keyword columns to i
 # Model Building and Evaluation (Vittal Mungde)
 The processed data was split into 80% training and 20% testing sets for evaluation. A RandomForestClassifier with 100 decision trees was trained on the training data. Predictions were made on the test set, and accuracy was calculated to evaluate the model's performance. Additionally, a confusion matrix was generated and visualized to provide detailed insights into the true positives, true negatives, false positives, and false negatives, highlighting the model's strengths and weaknesses.
 
+# Data loading and Data exploring (Swati Munde)
+The code evaluates and compares the accuracy of various machine learning models using a pipeline approach. It includes models like SVM, Decision Tree, Logistic Regression, Random Forest, and K-Nearest Neighbors. A defined evaluate_model function trains and tests each model in the pipeline and prints their accuracies. Finally, it generates a submission file with predictions from one selected model, saving it as submission.csv.
+
